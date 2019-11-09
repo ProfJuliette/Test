@@ -1,6 +1,16 @@
-$body-color: slateblue;
+del {
+  color: red;
+}
+ins{
+   color: green;
+}
+dfn {
+ color: blue;
+}
 
-body {
-  color: $body-color;
-  font-family: sans-serif;
+//kbd {
+// background: #cccccc;
+//}
+mark {
+  background: orangered;
 }
