@@ -1,4 +1,4 @@
 import '../styles/index.scss';
 
-alert ("Test");
+// alert ("Test");
 console.log('webpack starterkit');
