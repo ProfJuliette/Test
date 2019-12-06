@@ -1,19 +1,8 @@
-del {
-  color: red;
-}
-ins{
-   color: blue;
-}
-dfn {
- color: green;
-}
 
-//kbd {
-// background: #cccccc;
-//}
-mark {
-  background: orangered;
-}
-h1 {
-  color: brown;
-}
+   table {
+     border-collapse: collapse;
+   }
+   table, th, tr, td {
+     border: 1px solid black;
+   }
+   td.col1 { background: red; color: white; }
